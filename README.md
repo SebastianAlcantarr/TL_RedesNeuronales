@@ -56,7 +56,5 @@ npm run build    # genera dist/ para publicar
 
 > La cámara requiere **HTTPS** (o `localhost`). Para probar en el celular, publica `dist/` en GitHub Pages, Netlify o Vercel.
 
-## Artículo y video
-
-- Medium: _(pendiente: agregar liga)_
-- Video de la app en el celular: _(pendiente: agregar liga)_
+## Artículo
+- Medium:https://medium.com/@sebastianalcantar323/clasificacion-de-104-tipos-de-flores-usando-transfer-learning-83c2ed6012f3?sharedUserId=sebastianalcantar323
